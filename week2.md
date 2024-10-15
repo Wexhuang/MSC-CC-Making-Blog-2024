@@ -11,6 +11,12 @@ In the labs this week, we completed several foundational activities to familiari
 
 [Watch Video](link_to_video_1)
 
+
+
+
+Uploading lab1-LOVE-O-METER.MOV…
+
+
 [Arduino Code](./arduino-code/labs/blink/)
 
 ---
