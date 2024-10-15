@@ -1,5 +1,3 @@
-![lab2-2](https://github.com/user-attachments/assets/1f35ffec-ce9f-4160-afe1-9f6f6e13f12d)# Week 1
-
 ### Labs
 
 In the labs this week, we completed several foundational activities to familiarise ourselves with Arduino and basic electronics:
