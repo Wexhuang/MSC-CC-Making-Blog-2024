@@ -12,8 +12,6 @@ The first project I tackled was the classic LED blink. I assembled the circuit o
   
 [Watch Video](link_to_video_1)
 
-[Arduino Code](./arduino-code/labs/blink/)
-
 ---
 
 - **Lab 2:** **Button and LED**
@@ -48,6 +46,8 @@ The first project I tackled was the classic LED blink. I assembled the circuit o
 
 <img width="1374" alt="lab3-1" src="https://github.com/user-attachments/assets/0f76b111-402f-4f1e-ade1-37cb63c434c6">
 
+[Watch Video](link_to_video_1)
+
 
 💻 Code：Turn it on and off
    
@@ -81,7 +81,7 @@ The first project I tackled was the classic LED blink. I assembled the circuit o
          digitalWrite(led2, HIGH);  // Turn on the second LED (pin 8)
          delay(500);                // Wait for 1 second
    ```
-- Conclusion
+🧠 Conclusion
 
    - Difference in blinking frequency: Different delay intervals directly affect the blinking frequency and rhythm of the LEDs.Shorter delays will cause the LEDs to alternate more quickly, while longer delays will make the blinking slower.
    By using different combinations of delays, a variety of visual effects can be created. 🕙
@@ -91,7 +91,9 @@ The first project I tackled was the classic LED blink. I assembled the circuit o
 
 <img width="909" alt="lab3-2" src="https://github.com/user-attachments/assets/285b5c35-ab93-4d11-a36b-6278dadf2700">
 
-💻 Code：Fade-In with PWM**:
+[Watch Video](link_to_video_1)
+
+💻 Code：Fade-In with PWM:
      
   ```cpp
          int led1 = 3;
@@ -123,7 +125,10 @@ The first project I tackled was the classic LED blink. I assembled the circuit o
 
 - #### 3.3 RGB LED
 
-<img width="909" alt="lab3-2" src="https://github.com/user-attachments/assets/02796f69-938f-45d8-bc22-d5f1f47608ae">
+<img width="1447" alt="截屏2024-10-15 19 22 01" src="https://github.com/user-attachments/assets/9a9aea3b-df61-4ae4-907d-4f0ffccae712">
+
+[Watch Video](link_to_video_1)
+
 
 💻 Code：Fade-In with PWM**:
     
