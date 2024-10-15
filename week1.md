@@ -16,25 +16,31 @@ The first project I tackled was the classic LED blink. I assembled the circuit o
 
 - **Lab 2:** **Button and LED**
   
-- #### 2.1 Series circuit
+- #### lab 2.1 Series circuit
   
 ![lab2-1](https://github.com/user-attachments/assets/dc22d8dd-5836-45a3-a1e7-09a1dfc5ff0f)
 
 [Watch Video](link_to_video_1)
 
-- #### 2.2 First interactive circuit
+---
+
+- #### Lab 2.2 First interactive circuit
 
 ![lab2-2](https://github.com/user-attachments/assets/f060e82f-da3b-455b-8474-e704b001dc42)
 
 [Watch Video](link_to_video_1)
 
-- #### 2.3 Parallel circuit
+---
+
+- #### lab 2.3 Parallel circuit
 
 ![lab2-3](https://github.com/user-attachments/assets/49f7035d-219a-442d-ac3c-4b3f6c842573)
 
 [Watch Video](link_to_video_1)
 
-- #### 2.4 SPACESHIP  INTERFACE
+---
+
+- #### lab 2.4 SPACESHIP  INTERFACE
 
 
 
@@ -42,7 +48,7 @@ The first project I tackled was the classic LED blink. I assembled the circuit o
 
 - **Lab 3:** **LED Exploration**
 
-- #### 3.1 Dual LED Control
+- #### lab 3.1 Dual LED Control
 
 <img width="1374" alt="lab3-1" src="https://github.com/user-attachments/assets/0f76b111-402f-4f1e-ade1-37cb63c434c6">
 
@@ -81,13 +87,18 @@ The first project I tackled was the classic LED blink. I assembled the circuit o
          digitalWrite(led2, HIGH);  // Turn on the second LED (pin 8)
          delay(500);                // Wait for 1 second
    ```
+
+---
+
 🧠 Conclusion
 
    - Difference in blinking frequency: Different delay intervals directly affect the blinking frequency and rhythm of the LEDs.Shorter delays will cause the LEDs to alternate more quickly, while longer delays will make the blinking slower.
    By using different combinations of delays, a variety of visual effects can be created. 🕙
    - Changes in visual patterns: Shorter delays make the LED appear to blink rapidly, while longer delays create a smoother effect.
 
-- #### 3.2 Advanced LED Control
+---
+
+- #### lab 3.2 Advanced LED Control
 
 <img width="909" alt="lab3-2" src="https://github.com/user-attachments/assets/285b5c35-ab93-4d11-a36b-6278dadf2700">
 
@@ -123,7 +134,9 @@ The first project I tackled was the classic LED blink. I assembled the circuit o
          }
    ```
 
-- #### 3.3 RGB LED
+---
+
+- #### lab 3.3 RGB LED
 
 <img width="1447" alt="截屏2024-10-15 19 22 01" src="https://github.com/user-attachments/assets/9a9aea3b-df61-4ae4-907d-4f0ffccae712">
 
