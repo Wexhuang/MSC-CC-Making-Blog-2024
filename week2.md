@@ -44,3 +44,29 @@ In the labs this week, we completed several foundational activities to familiari
 [Watch Video](link_to_video_1)
 
 [Arduino Code](./arduino-code/labs/blink/)
+
+---
+
+- **Lab 3.1:** **Different Circuit configurationC**
+
+After comparing series and parallel circuits, I found that parallel LEDs are brighter because each LED can receive sufficient voltage and independently draw the required current.
+
+Series Circuit
+
+![lab3-1 1](https://github.com/user-attachments/assets/91027cfc-3f01-45bb-a601-6e494056af82)
+
+Parallel Circuit 
+
+![lab3 1-2](https://github.com/user-attachments/assets/0cb6dc4f-c1d4-4f50-a8ad-70e5ae1af7f0)
+
+
+---
+
+- **Lab 3.2:** **Ohm's Law**
+
+
+
+
+
+
+
