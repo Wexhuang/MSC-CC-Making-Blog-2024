@@ -51,7 +51,7 @@ In the labs this week, we completed several foundational activities to familiari
 
 [Watch Video](link_to_video_1)
 
-[Arduino Code](Potentiometer-led.ino)
+[Arduino Code](Code/Potentiometer-led.ino)
 
 ---
 
