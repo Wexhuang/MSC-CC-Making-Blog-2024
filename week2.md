@@ -35,7 +35,7 @@ In the labs this week, we completed several foundational activities to familiari
 
 - **Lab 2.2:** **Level 2: Create My Own Patterns**
 
-![w2-lab2 2](https://github.com/user-attachments/assets/92eeb862-4ed6-4349-b696-187cd1671e52)
+![w2-lab2 2](https://github.com/user-attachments/assets/d1eacd1b-65b9-4bd0-99aa-4b0d6a126039)
 
 [Watch Video](link_to_video_1)
 
