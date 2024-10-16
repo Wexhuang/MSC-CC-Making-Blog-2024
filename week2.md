@@ -24,6 +24,8 @@ In the labs this week, we completed several foundational activities to familiari
 ---
 
 - **Lab 2.1:** **Level 1: Explore Adafruit LED Strip Examples**
+
+This was my first time exploring Adafruit LED strips. I learned how to install and use the library, and I experimented with the effects from the library and changed the timings.
   
 ![lab2 1](https://github.com/user-attachments/assets/bf15324a-1655-4928-9c40-3a960d1b80ad)
 
@@ -35,6 +37,8 @@ In the labs this week, we completed several foundational activities to familiari
 
 - **Lab 2.2:** **Level 2: Create My Own Patterns**
 
+Then I started trying to create my own lighting patterns by using a for loop to light up the LEDs on the strip one by one. In each iteration, the next LED would turn blue. I aimed to achieve a ‘gradually advancing wave’ effect through the combination of dynamic blue and a fixed green.
+
 ![w2-lab2 2](https://github.com/user-attachments/assets/d1eacd1b-65b9-4bd0-99aa-4b0d6a126039)
 
 [Watch Video](Videos/w2-lab2.2.MOV)
@@ -44,6 +48,8 @@ In the labs this week, we completed several foundational activities to familiari
 ---
 
 - **Lab 2.3:** **Level 3: Make a Game**
+
+
   
 ![w2-lab2 3](https://github.com/user-attachments/assets/a3977654-a804-4368-83a0-9f32a86ef8d2)
 
