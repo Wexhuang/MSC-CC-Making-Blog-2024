@@ -45,7 +45,7 @@ In the labs this week, we completed several foundational activities to familiari
 
 [Watch Video](link_to_video_1)
 
-[Arduino Code](./arduino-code/labs/blink/)
+[Arduino Code](Code/week2-2.3.ino)
 
 ---
 
