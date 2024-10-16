@@ -47,6 +47,14 @@ In the labs this week, we completed several foundational activities to familiari
 
 ---
 
+- **Lab 2.4:** **potentiometer-led**
+
+[Watch Video](link_to_video_1)
+
+[Arduino Code](./arduino-code/labs/blink/)
+
+---
+
 - **Lab 3.1:** **Different Circuit configurationC**
 
 After comparing series and parallel circuits, I found that parallel LEDs are brighter because each LED can receive sufficient voltage and independently draw the required current.
