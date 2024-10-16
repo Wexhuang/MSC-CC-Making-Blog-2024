@@ -27,7 +27,7 @@ In the labs this week, we completed several foundational activities to familiari
   
 ![lab2 1](https://github.com/user-attachments/assets/bf15324a-1655-4928-9c40-3a960d1b80ad)
 
-[Watch Video](link_to_video_1)
+[Watch Video](Videos/week2-lab2.1.mp4)
 
 [Arduino Code](Code/week2-lab2.1.ino)
 
