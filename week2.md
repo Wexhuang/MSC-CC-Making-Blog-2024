@@ -49,6 +49,8 @@ In the labs this week, we completed several foundational activities to familiari
 
 - **Lab 2.4:** **potentiometer-led**
 
+![lab2 4](https://github.com/user-attachments/assets/f7db6bfb-80e2-4c14-b6c0-bab2283a248d)
+
 [Watch Video](link_to_video_1)
 
 [Arduino Code](Code/Potentiometer-led.ino)
