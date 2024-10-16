@@ -24,6 +24,8 @@ In the labs this week, we completed several foundational activities to familiari
 ---
 
 - **Lab 2.1:** **Level 1: Explore Adafruit LED Strip Examples**
+  
+![lab2 1](https://github.com/user-attachments/assets/bf15324a-1655-4928-9c40-3a960d1b80ad)
 
 [Watch Video](link_to_video_1)
 
