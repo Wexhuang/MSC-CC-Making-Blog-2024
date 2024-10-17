@@ -9,7 +9,7 @@ In the labs this week, we completed several foundational activities to familiari
 
 ![lab1-LOVE-O-METER](https://github.com/user-attachments/assets/c08d5531-5038-4e63-89cc-a90af4c36dea)
 
-[Watch Video](link_to_video_1)
+[Watch Video](Videos/W2-lab1.1.MOV)
 
 
 ---
@@ -19,7 +19,7 @@ In the labs this week, we completed several foundational activities to familiari
  
 ![lab1 2- LIGHT THERIMIN](https://github.com/user-attachments/assets/e1d9dc77-7239-4f2e-94f0-beba3a06509b)
 
-[Watch Video](link_to_video_1)
+[Watch Video](Videos/w2-lab1.2.MOV)
 
 ---
 
