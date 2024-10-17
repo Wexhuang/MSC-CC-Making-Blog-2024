@@ -49,6 +49,8 @@ Then I started trying to create my own lighting patterns by using a for loop to 
 
 - **Lab 2.3:** **Level 3: Make a Game**
 
+I use the Adafruit NeoPixel library to control an LED strip, lighting up one LED every 200 milliseconds and displaying it in a random color. The LEDs light up sequentially along the strip. By pressing a button, the direction of the LED sequence can be reversed (from forward to backward, or vice versa), creating a colorful moving light effect.
+
   
 ![w2-lab2 3](https://github.com/user-attachments/assets/a3977654-a804-4368-83a0-9f32a86ef8d2)
 
@@ -59,6 +61,7 @@ Then I started trying to create my own lighting patterns by using a for loop to 
 ---
 
 - **Lab 2.4:** **potentiometer-led**
+
 
 ![lab2 4](https://github.com/user-attachments/assets/f7db6bfb-80e2-4c14-b6c0-bab2283a248d)
 
