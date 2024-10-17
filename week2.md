@@ -49,7 +49,6 @@ Then I started trying to create my own lighting patterns by using a for loop to 
 
 - **Lab 2.3:** **Level 3: Make a Game**
 
-
   
 ![w2-lab2 3](https://github.com/user-attachments/assets/a3977654-a804-4368-83a0-9f32a86ef8d2)
 
@@ -63,7 +62,7 @@ Then I started trying to create my own lighting patterns by using a for loop to 
 
 ![lab2 4](https://github.com/user-attachments/assets/f7db6bfb-80e2-4c14-b6c0-bab2283a248d)
 
-[Watch Video](link_to_video_1)
+[Watch Video](Videos/week2-lab2.4.MOV)
 
 [Arduino Code](Code/Potentiometer-led.ino)
 
